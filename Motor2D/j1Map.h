@@ -16,6 +16,7 @@ struct Layer
 	uint*				tiles;
 	uint				size;
 	~Layer()			{ delete tiles; }
+	inline uint Get(uint x, uint y) const;
 };
 	// TODO 6: Short function to get the value of x,y
 

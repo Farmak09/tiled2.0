@@ -1,4 +1,4 @@
 ﻿  j1Map.cpp
-c:\users\jaumesv1\desktop\dev_class5_handout\motor2d\j1map.cpp(330): warning C4018: '<': no coinciden signed/unsigned
-  Motor2D.vcxproj -> C:\Users\jaumesv1\Desktop\Dev_class5_handout\Debug\Motor 2D.exe
-  Motor2D.vcxproj -> C:\Users\jaumesv1\Desktop\Dev_class5_handout\Debug\Motor 2D.pdb (Partial PDB)
+c:\users\jaumesv1\documents\github\tiled2.0\motor2d\j1map.cpp(333): warning C4018: '<': no coinciden signed/unsigned
+  Motor2D.vcxproj -> C:\Users\jaumesv1\Documents\GitHub\tiled2.0\Debug\Motor 2D.exe
+  Motor2D.vcxproj -> C:\Users\jaumesv1\Documents\GitHub\tiled2.0\Debug\Motor 2D.pdb (Partial PDB)
